@@ -1,2 +1,5 @@
 # DiscordBot
-Pasta para mandar Msg
+
+Olá Humanos
+
+Estou fazendo um teste no Github pra caso que eu necessite disso.
